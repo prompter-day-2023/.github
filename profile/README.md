@@ -11,8 +11,8 @@
 * 바쁜 현생을 사느라 지친 여러분들에게 힘이 되어주고 싶어요. 💪
 
 ### 🛠 System Architecture
+<img width="801" alt="스크린샷 2023-09-02 오후 7 44 17" src="https://github.com/prompter-day-2023/.github/assets/96467030/9f95681c-6558-4329-bfe3-ea18cf240f0a">
 
-(사진)
 
 ### 🎨 핵심 기능
 
@@ -29,6 +29,6 @@
 ### 👩‍💻 Member
 | name | 장재영 | 이서연 | 김고성 | 유희진 |
 | --- | --- | --- | --- | --- |
-| profile |  | <img src="https://avatars.githubusercontent.com/u/68765200?v=4" width=200px height=200px/> | <img src="https://avatars.githubusercontent.com/u/121794841?v=4" width=200px height=200px/> | <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width=200px height=200px/> |
+| profile |  | <img src="https://avatars.githubusercontent.com/u/68765200?v=4" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/121794841?v=4" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width=100px height=100px/> |
 | role | Team Leader, UI/UX Design | Backend, Prompting | Frontend | Backend, DevOps |
-| github/email | teambbang12@naver.com | https://github.com/sylee6529 | https://github.com/kimgosung | http://github.com/yu-heejin |
+| github/email | teambbang12@naver.com | [sylee6529](https://github.com/sylee6529) | [kimgosung](https://github.com/kimgosung) | [yu-heejin](http://github.com/yu-heejin) |

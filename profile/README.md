@@ -11,8 +11,7 @@
 * 바쁜 현생을 사느라 지친 여러분들에게 힘이 되어주고 싶어요. 💪
 
 ### 🛠 System Architecture
-<img width="701" alt="스크린샷 2023-09-02 오후 7 44 17" src="https://github.com/prompter-day-2023/.github/assets/96467030/9f95681c-6558-4329-bfe3-ea18cf240f0a">
-
+<img width="776" alt="스크린샷 2023-09-03 오전 4 57 00" src="https://github.com/prompter-day-2023/.github/assets/96467030/d0edd044-4e5c-465a-a59b-6cfed1945c09">
 
 ### 🎨 핵심 기능
 

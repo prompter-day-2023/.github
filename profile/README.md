@@ -28,6 +28,6 @@
 ### 👩‍💻 Member
 | name | 장재영 | 이서연 | 김고성 | 유희진 |
 | --- | --- | --- | --- | --- |
-| profile |  | <img src="https://avatars.githubusercontent.com/u/68765200?v=4" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/121794841?v=4" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width=100px height=100px/> |
-| role | Team Leader, UI/UX Design | Backend, Prompting | Frontend | Backend, DevOps |
-| github/email | teambbang12@naver.com | [sylee6529](https://github.com/sylee6529) | [kimgosung](https://github.com/kimgosung) | [yu-heejin](http://github.com/yu-heejin) |
+| profile | <img src="https://github.com/prompter-day-2023/.github/assets/96467030/8e2e9ae8-1fa0-4277-8b39-3a85befa4575" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/68765200?v=4" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/121794841?v=4" width=100px height=100px/> | <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width=100px height=100px/> |
+| role | Team Leader,<br/>UI/UX Design | Backend,<br/>Prompting | Frontend | Backend,<br/>DevOps |
+| github/email | [teambbang12](teambbang12@naver.com) | [sylee6529](https://github.com/sylee6529) | [kimgosung](https://github.com/kimgosung) | [yu-heejin](http://github.com/yu-heejin) |

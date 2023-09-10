@@ -19,7 +19,7 @@
 
 ### 📷 Demo
 
-(영상)
+[DEMO](https://youtu.be/I7PFO_c1o-M)
 
 ### 📝 프로젝트 회고록
 

@@ -22,8 +22,7 @@
 [DEMO](https://youtu.be/I7PFO_c1o-M)
 
 ### 📝 프로젝트 회고록
-
-(디스콰이엇 혹은 medium 링크)
+[디스콰이엇](https://disquiet.io/product/%EC%96%B4%EB%A5%B8%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B7%B8%EB%A6%BC-%EC%9D%BC%EA%B8%B0-%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81-%EA%BE%B8%EB%AF%B8)
 
 ### 👩‍💻 Member
 | name | 장재영 | 이서연 | 김고성 | 유희진 |
